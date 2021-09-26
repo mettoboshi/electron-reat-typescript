@@ -25,7 +25,7 @@ const base: Configuration = {
         exclude: /node_modules/,
         use: [
           { loader: 'ts-loader' },
-          // { loader: 'ifdef-loader', options: { DEBUG: false } },
+          { loader: 'ifdef-loader', options: { DEBUG: false } },
         ],
       },
       {
