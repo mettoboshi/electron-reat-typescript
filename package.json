@@ -26,6 +26,7 @@
     "electron": "^15.0.0",
     "electron-reload": "^2.0.0-alpha.1",
     "electron-search-devtools": "^1.4.8",
+    "html-webpack-plugin": "^5.3.2",
     "mini-css-extract-plugin": "^2.3.0",
     "ts-loader": "^9.2.6",
     "ts-node": "^10.2.1",
